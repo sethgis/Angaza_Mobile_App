@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Real1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title">Guide to Finance Bill Rejection</string>
+    <string name="logo">Kenyan Flag</string>
+    <string name="male">Click for male</string>
+    <string name="female">Click for female</string>
+    <string name="gays">ALL OF US</string>
+    <string name="malet">Male</string>
+    <string name="femalet">Female</string>
+    <string name="gayst">They/them</string>
+
+    <string name="bif">
+        <b>Economic Disadvantage: Exploitation often leads to economic hardships.
+        Men, like women, can experience job insecurity, low wages,
+        and poor working conditions,
+        which directly impact their quality of life and economic stability.
+        Political Disillusionment:
+        Continuous exploitation by the political class can lead to
+        disillusionment with the political system.
+        When promises are broken, and corruption is prevalent,
+        it erodes trust in political leaders and institutions.</b>
+    </string>
+
+    <string name="gif">
+        <b>Exploitation reinforces gender inequality
+        by perpetuating power imbalances and limiting
+        opportunities for women. Rejecting exploitation
+        is a step towards achieving true gender equality
+        in all spheres of life.</b>
+    </string>
+
+    <string name="they">
+        <b>In summary, rejecting exploitation is essential
+        for women\'s economic, social, and political empowerment.
+        It is a necessary step towards achieving gender equality,
+        protecting human rights, and building a fairer and more just society for all.</b>
+   </string>
+
+</resources>
